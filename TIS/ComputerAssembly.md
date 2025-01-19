@@ -12,6 +12,3 @@
 <img src="ComputerAssembly/IMG20241106103620_01.jpg"><br>
 <img src="ComputerAssembly/IMG20241106103620.jpg"><br>
 <img src="ComputerAssembly/IMG20241106103621.jpg"><br>
-
-<h2>Test</h2>
-<p>blablahbla</p>
