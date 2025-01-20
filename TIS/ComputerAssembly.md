@@ -1,4 +1,4 @@
-# UTM
+# PC Assembly
 <img src="ComputerAssembly/IMG20241106100223.jpg"><br>
 <img src="ComputerAssembly/IMG20241106100542.jpg"><br>
 <img src="ComputerAssembly/IMG20241106100623.jpg"><br>
